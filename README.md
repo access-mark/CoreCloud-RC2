@@ -1,4 +1,4 @@
-# CoreCloud 3.6 RC2 Launch Candidate
+# CoreCloud RC2 Launch Candidate
 
 Static GitHub Pages-ready site.
 
